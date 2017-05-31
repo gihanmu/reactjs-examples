@@ -8,7 +8,7 @@ export class App extends React.Component{
             <div className="row">
                 <div className="col-sm-4 col-sm-offset-4">
                      <h1>My app is up and running</h1>
-                     <Task/>
+                     <Task name="Child"/>
                 </div>           
             </div>
             

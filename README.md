@@ -1,1 +1,1 @@
-#First child component
+#Passing props to child componet
