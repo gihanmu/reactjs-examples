@@ -1,1 +1,2 @@
-# In this example we are going to render a react component
+# Decorating the app with some CSS 
+# We do not use class, but className

@@ -4,7 +4,12 @@ import {render} from 'react-dom';
 export class App extends React.Component{
     render(){
         return(
-            <h1>My app is up and running</h1>
+            <div className="row">
+                <div className="col-sm-4 col-sm-offset-4">
+                     <h1>My app is up and running</h1>
+                </div>           
+            </div>
+            
         )
     }
 }
