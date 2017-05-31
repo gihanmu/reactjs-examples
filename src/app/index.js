@@ -7,7 +7,7 @@ export class App extends React.Component{
         return(
             <div className="row">                    
                 <div className="col-sm-12">                    
-                     <Task name="Child"/>
+                     <Task/>
                 </div>           
             </div>
             
