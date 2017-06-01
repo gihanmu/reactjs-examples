@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -d && cp src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --display-error-details --port 5688",
+    "build": "webpack -d && cp src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --display-error-details --port 5688 ",
     "build:prod": "cp src/index.html dist/index.html && webpack -p"
   },
   "keywords": [
